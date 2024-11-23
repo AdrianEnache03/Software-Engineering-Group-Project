@@ -1,0 +1,19 @@
+Author: fia5
+Week: 10 (05/05/23)
+
+Assigned actions
+==============
+
+ACTION: fia5 - Do the front end for replay, fix bugs, add comments
+completed the front end of replays implementation to work with the back end, fixed a lot of issues that semed to arise, added lots of comments
+hours: 6
+	
+
+Other project work
+================
+removed all of the redundent and empty test files that were added at the start
+
+hours: 1
+
+Total hours: 7
+	

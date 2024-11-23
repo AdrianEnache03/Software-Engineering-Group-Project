@@ -1,0 +1,41 @@
+Author: KIF11
+Week: 5 (27/02/23)
+
+Assigned actions
+==============
+
+Action 1: Weekly group meeting
+
+Met in library for weekly meeting, expanded the Test Specification Introduction, added several references, fixes spelling erros and incorrect fonts/font sizes, sent document to other group members
+
+Hours: 1
+
+Action 2: Review meeting in library, 12-1 21/02/23
+
+Met in library for review meeting to go over the current Test Specification draft, what passed the requirements and what failed the requirements
+
+Hours: 1
+
+Action 3: Watch weekly Panopto recordings
+
+Watched Panopto recordings 5A, 5B, 5C and 5D
+
+Hours: 1
+
+Action 4: Amend Test Specification mistakes and add new content
+
+Fixed many of the mistakes brought up in the first review meeting, as well as added new content where necessary
+
+Hours: 3
+
+Action 5: Review meeting in library, 11-12 07/03/23
+
+Met in library for second review meeting to go over the current Test Specification draft, what passed the requirements and what failed the requirements
+
+Hours: 1
+
+Other project work
+================
+n/a
+
+Total hours: 7

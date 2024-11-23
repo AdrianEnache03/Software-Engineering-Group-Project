@@ -1,0 +1,31 @@
+Author: DUB4
+Week: 11 (01/05/23)
+
+Assigned actions
+==============
+
+Action 1: Assign Issues for Integration Day 1
+
+	- Created a new Milestone, "Integration Week", to keep track of Issues for Integration Week
+	- Created new labels to allow for better/more robust organisation of issues
+	- Added Issues for everyone's actions for today 
+	
+Hours: 1
+
+Action 2: Start Development Of Maintenance Manual
+
+	- Revistied SE.QA.10
+	- Created a Template document for the maintence Manual
+	- Uploaded issue outlining all required sections
+
+Hours: 2
+
+Other project work
+================
+
+Provided some help for front-end of pawn promotion
+
+Hours: 1
+
+
+Total hours: 4

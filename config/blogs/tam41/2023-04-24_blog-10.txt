@@ -1,0 +1,19 @@
+Author: tam41
+Week: 10 (24/04/23)
+
+Assigned actions
+==============
+
+Action 1: 
+	Made queen and king movement tests.
+	Added javadoc comments to test files.
+Hours: 2
+
+Action 2: 
+	Worked on design document, updating section 4 to the current program.
+Hours: 3
+
+Other project work
+================
+
+Total hours: 5

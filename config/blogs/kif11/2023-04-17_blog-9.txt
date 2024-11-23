@@ -1,0 +1,29 @@
+Author: KIF11
+Week: 9 (17/04/23)
+
+Assigned actions
+==============
+
+Action 1: Weekly group meeting
+
+Met in library for weekly meeting, discussed what we will be working on this week
+
+Hours: 1
+
+Action 2: Add additional tests to Test Specification
+
+Added 14 additional tests discussed during the last review meeting
+
+Hours: 2
+
+
+Other project work
+================
+
+Action 1: Practicing creating test cases
+
+Was out of practice with creating test cases, spent 2 hours practicing with smaller programs. Robotics assignment took up most of my time for this week
+
+Hours: 2
+
+Total hours: 5

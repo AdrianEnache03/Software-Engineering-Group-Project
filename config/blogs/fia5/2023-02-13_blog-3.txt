@@ -1,0 +1,25 @@
+ Aythor: fia5
+ week: 3 (13/02/23)
+
+ Assigned actions
+ ================
+
+3. 1 or 2 people to produce draft Interactive online presentation which shows the user experience.
+Mock-up UI screen required for every use case (see example PowerPoint on blackboard for more info)
+ACTION: jco3, fia5
+
+created the powerPoint and placed images on there and left the rest for jco3 to complete for now
+
+hours: 0.5
+
+2. 1 person to work on mock-up screens for the PowerPoint.
+ACTION: fia5
+
+figured out how to use scene builder and converted my prevous figma UI mock ups to fxml files as well as edited tam4's start screen to fit the style of the rest of the UI, and created the main bord UI
+hours: 7
+
+ Other project work
+ =================
+ n/a
+
+ Total hours: 8

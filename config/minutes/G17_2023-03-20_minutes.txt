@@ -1,0 +1,96 @@
+Project: Group Project 17 
+Meeting: Weekly Project Meeting 
+Persons present: All project members except jag89, dub4 
+Place and date of meeting: MP 2.04, Monday 20th March 2023 
+Circulation list: All project members, plus project manager 
+Author: George Cooper (gwc1) 
+Date of minutes: 20/03/23 
+Version: 1.2
+
+Matters arising 
+===============
+1. Has everyone uploaded files/blogs?
+jco3 make sure dates are correct.
+have hrs been rounded up?
+ACTION: jco3 update date in blog and file name and round up hours.
+
+2. Status of gitlab repository?
+	Spreadsheet updated.
+
+3. UI document completed ade12?
+	More stuff needs tweaking
+	Make necessary changes.
+	ACTION: ade12 by 20/03/23
+
+4. UI presentation completed fia5?
+	Usecase 2.2.5 - 3.2 still need completing.
+	Use scenebuilder rotation to complete usecases quicker.
+
+5. Design specification status
+	5.1 review meetings summary - gwc1 summarised review meeting findings.
+	5.2 has it been uploaded? - document has been uploaded.
+	5.3 known improvements - section 5 still incomplete.
+	section 5 needs completing (UML diagrams missing) more sequence diagrams.
+	
+6. Test spec improvements
+	6.1 Group went through feedback.
+	6.2 Whats been done? kif11 worked on feedback, implemented some changes (see issues)
+	6.3 what still needs to be done? - more tests need updating with feedback.
+	need to identify equivalence partitions and boundary cases as discussed in the lecture on system testing.
+	make more reproducible.
+	
+7. Programming progress.
+    gwc1 showed off improvements.
+	UI bugs fixed, front end progressed
+	Group discussed where to save savefiles save in appdata? or in project?
+	Look into how to save moves (fen strings?)
+	method to update UI from array
+	More work on backend needed.
+
+New business
+============
+
+1. 1 or 2 to work on Test spec
+	Review meeting? 
+	Discuss at Library meeting on Tuesday.
+	Make more improvements.
+	Make all tests reproducible.
+	ACTION: kif11 by 27/03/23
+
+2. 1 or 2 to work on presentation if not done
+	fia5 finish presentation by 27/03/23
+	gwc1 go through scenebuilder on tuesday
+	ACTION: fia5 by 27/03/23
+
+2. 3 or 4 people to work on programming
+	gwc1/ade12/jco3
+	- movement
+	- legal moves
+	- check/checkmate
+	- UI (implement end screen)
+	ACTION: gwc1/ade12/jco3
+
+3. 1 or 2 people to look into JUnit
+	write tests when parts of programming are complete.
+	ACTION: tam41 by 21/03/23
+
+4. Work on ITW plan
+	Where Group discussed where they wanted to meet
+	decided on Hugh Owen Library (book rooms in advance) 
+	or physical science library if no rooms are available.
+	Group discussed hours, decided to dicusss again later the time. 
+	Group disccussed dividing into sub-teams 
+	(QA(tate/kiff)/front end(fia)/back end(ade,jco3)/document refinement/project report(gwc1)
+	do we want to work bank holiday? Yes if needed.
+	ACTION: gwc1 start writing down plan and book rooms by 27/03/23
+
+5. Work over Easter
+	Who's doing what? Group decided to agree on discord server at the end of the week.
+	Group discussed hosting online meetings during easter? 
+	Agreed to but make optional and only if need be.
+
+
+AOB
+===
+1. Group members decided to meet once a week at Library to discuss the project (ACTION: All)
+2. fia5 test vpn (ACTION: fia5)

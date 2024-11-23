@@ -1,0 +1,14 @@
+Author: tam41
+Week: 8 (20/03/23)
+
+Assigned actions
+==============
+
+Action 1: 
+	Researched and practised doing JUnit5 tests in order to help implement testing.
+Hours: 3
+
+Other project work
+================
+
+Total hours: 3

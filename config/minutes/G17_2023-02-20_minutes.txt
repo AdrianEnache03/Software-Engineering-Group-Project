@@ -1,0 +1,87 @@
+Project: Group Project 17 
+Meeting: Weekly Project Meeting 
+Persons present: All project members
+Place and date of meeting: MP 2.04, Monday 20th February 2023 
+Circulation list: All project members, plus project manager 
+Author: George Cooper (gwc1) 
+Date of minutes: 20/02/23 
+Version: 1.1
+
+Matters arising 
+===============
+
+1. Has everyone uploaded files? /general status of repository
+Group discussed status of repository.
+Dustin mentioned to not use fractions of hours in blogs.
+James Owen agreed to round up his blog timings to the nearest hour.
+ACTION: jco3
+
+2. Use case document status ade12 and tam41 (point 1 of minutes 13th February)
+Tate Moore discussed status of use case document with the group.
+Group decided more detail was needed in the use case descriptions.
+
+3. Draft interactive presentation status jco3 and fia5 (point 2 of minutes 13th February).
+Fin Aubin and James Owen showed off the draft presentation.
+Group discussed moving presentation to correct folder.
+Dustin Baker suggested the login screen was not needed.
+George Cooper decided to gather more feedback at a review meeting.
+
+4. Mock-up screens for presentation status fia5 (point 3 of minutes 13th February)
+Fin Aubin showed mock-up screens.
+Group concluded login screen needs changing.
+
+5. Test specification dub4 (point 4 of minutes 13th February)
+Dustin showed status of test specification.
+Tests are currently in separate spreadsheet.
+Tests currently cover FR1 only.
+Group concluded more tests for other FR were needed.
+
+6. Draft Design specification status kif11, gwc1 (point 5 of minutes 13th February)
+George Cooper and Kieran Foy discussed current status of Design Specification.
+Section 1 and 2 complete.
+Waiting on complete UI specification.
+Kieran mentioned he compiled list of resources.
+
+New business
+============
+1. Jack Grant explained absence to the rest of the group.
+He announced his planned departure from university.
+He revealed he would not be attending any more tutorials or meetings.
+
+2. Review meeting
+George Cooper and Dustin Baker decided to schedule a review meeting
+to discuss the UI specification.
+All attending members decided to look at review standards/QA7
+Meeting was scheduled for 12-1 21/02/2023 at the Hugh Owen Library.
+ACTION: gwc1, dub4, fia5, jco3, ade12, tam41 (attend review meeting)
+
+3. UI use case/presentation improvements.
+3 or 4 people to attend review meeting and work on changes.
+ACTION: fia5, jco3 (Work on presentation changes discussed at review meeting)
+ACTION: ade12 tam41 (Work on UI use case document changes discussed at review meeting)
+
+4. 1 or 2 people to work on test specification.
+Produce draft for next week.
+gwc1 to work on tests FR2-FR6.
+kif11 to work on tests FR7-FR11.
+ACTION: gwc1, kif11
+
+5. Prototype coding
+what’s been done and what needs to be done?
+Group discussed investigating implementation of UI.
+Group decided to investigate how to implement UI if any member finished all assigned work early.
+ACTION: All 
+
+6. Design specification sections 3-5
+Group decided design specification was low priority.
+No action required this week.
+
+7. QA manager to work on review meeting, manage issues, tidy up repository
+Prepare repository for final documents.
+Make sure all documents are uploaded in both doc and pdf form.
+ACTION: dub4
+
+AOB 
+=== 	
+- Group members decided to meet once a week at Library to discuss the project.
+- Investigate maven

@@ -1,0 +1,23 @@
+Author: KIF11
+Week: 6 (06/03/23)
+
+Assigned actions
+==============
+
+Action 1: Weekly group meeting
+
+Met in library for weekly meeting, discussed which sections of code should be tackled first
+
+Hours: 1
+
+Action 2: Start writing code for the project
+
+Initialised an 8x8 2D array of type Piece to act as the chess board. Looped through every position, created and added the relevant piece to the correct position. Created test classes for every class. Started on the save and load functions in Setup
+
+Hours: 4
+
+Other project work
+================
+n/a
+
+Total hours: 5

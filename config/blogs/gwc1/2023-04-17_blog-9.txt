@@ -1,0 +1,34 @@
+Author: gwc1
+Week: 9 (17/04/23)
+
+Assigned actions
+==============
+
+Action 1: Meeting in the library
+Met in the library, discussed project progress, updated minutes
+
+Hours: 1
+
+
+
+Action 2. Worked on programming chess tutor
+	2.1. implemented show moves
+		2.1.1. added show moves for moving to square
+		2.1.2. added take piece indicator
+	2.2. add comments for some methods
+	2.3. implemented pieces taking
+	
+Hours: 5
+	
+
+Other project work
+================
+
+Action 1: Updated a spreadsheet to record group hours spent working
+on the project.
+Updated task progress.
+
+Hours: 1
+
+Total hours: 7
+	

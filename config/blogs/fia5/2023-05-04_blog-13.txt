@@ -1,0 +1,20 @@
+Author: fia5
+Week: 10 (04/05/23)
+
+Assigned actions
+==============
+
+ACTION: fia5 - work on the front end for check and checkmate
+started work on the front end however encounter a few errors which george ended up fixing
+hours: 3
+	
+
+Other project work
+================
+
+fixed all the null pointer exeptions that occured when selecting a empty tile (there were a few), and worked on commenting the code and worked through a load of smaller issues on the issue tracker, and replaced the accept or decline screen on resignation to an are you sure screen.
+
+hours: 3
+
+Total hours: 6
+	

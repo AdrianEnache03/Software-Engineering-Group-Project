@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="800.0" fitWidth="800.0" opacity="0.5" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../Background.png" />
+         </image>
+         <effect>
+            <InnerShadow choke="0.3" height="255.0" radius="127.0" width="255.0" />
+         </effect>
+      </ImageView>
+      <Text layoutX="77.0" layoutY="226.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CHESS TUTOR">
+         <font>
+            <Font name="Copperplate Gothic Bold" size="81.0" />
+         </font>
+      </Text>
+      <Button alignment="BASELINE_CENTER" layoutX="259.0" layoutY="462.0" mnemonicParsing="false" prefHeight="79.0" prefWidth="283.0" text="Start new game" textAlignment="CENTER">
+         <font>
+            <Font name="Copperplate Gothic Bold" size="25.0" />
+         </font>
+         <effect>
+            <Lighting diffuseConstant="0.91" specularConstant="0.67" specularExponent="13.49" surfaceScale="1.38">
+               <bumpInput>
+                  <Shadow />
+               </bumpInput>
+               <light>
+                  <Light.Distant />
+               </light>
+            </Lighting>
+         </effect>
+      </Button>
+      <Button alignment="BASELINE_CENTER" layoutX="259.0" layoutY="561.0" mnemonicParsing="false" prefHeight="79.0" prefWidth="283.0" text="Load old game" textAlignment="CENTER">
+         <font>
+            <Font name="Copperplate Gothic Bold" size="25.0" />
+         </font>
+         <effect>
+            <Lighting diffuseConstant="0.91" specularConstant="0.67" specularExponent="13.49" surfaceScale="1.38">
+               <bumpInput>
+                  <Shadow />
+               </bumpInput>
+               <light>
+                  <Light.Distant />
+               </light>
+            </Lighting>
+         </effect>
+      </Button>
+      <Button alignment="BASELINE_CENTER" layoutX="259.0" layoutY="661.0" mnemonicParsing="false" prefHeight="79.0" prefWidth="283.0" text="QUIT" textAlignment="CENTER">
+         <font>
+            <Font name="Copperplate Gothic Bold" size="25.0" />
+         </font>
+         <effect>
+            <Lighting diffuseConstant="0.91" specularConstant="0.67" specularExponent="13.49" surfaceScale="1.38">
+               <bumpInput>
+                  <Shadow />
+               </bumpInput>
+               <light>
+                  <Light.Distant />
+               </light>
+            </Lighting>
+         </effect>
+      </Button>
+   </children>
+   <effect>
+      <DropShadow />
+   </effect>
+</AnchorPane>

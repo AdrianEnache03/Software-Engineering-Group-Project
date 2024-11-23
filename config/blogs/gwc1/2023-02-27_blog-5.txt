@@ -1,0 +1,39 @@
+Author: gwc1
+Week: 5 (27/02/23)
+
+Assigned actions
+==============
+
+Action 1: Meeting in the library to discuss project.
+
+Met in the library, discussed test specification. 
+Tidied up minutes and uploaded.
+
+Hours: 1
+
+Action 2: Hosted review meeting 28/02/23, updated mins and assigned tasks
+
+Hours: 1
+
+Action 3: Attended meeting 06/03/23 to look at test spec, assigned tasks to work on.
+
+Hours: 1
+
+Action 4: Updated test specification with changes discussed at review meeting (28/02/23)
+Added new tests.
+
+Hours: 3
+
+
+Other project work
+================
+
+Action 1: Prepared for meeting.
+
+Wrote list of tasks to complete for next week for the meeting.
+Made sure test spec was uploaded before tutorial
+
+Hours: 2
+
+
+Total Hours: 8

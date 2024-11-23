@@ -1,0 +1,86 @@
+Project: Group Project 17 
+Meeting: Weekly Project Meeting 
+Persons present: All project members except jag89
+Place and date of meeting: MP 2.04, Monday 27th February 2023 
+Circulation list: All project members, plus project manager 
+Author: George Cooper (gwc1) 
+Date of minutes: 27/02/23 
+Version: 1.1
+
+Matters arising 
+===============
+
+1. Has everyone uploaded files and blogs?
+All members have uploaded blogs for this week.
+George Cooper reminded the group to keep track of everything, and try to
+average 9-12hrs a week.
+All members now rounding up hours spent to nearest hour.
+
+2. What is the status of the GitLab repository?
+Dustin Baker informed the group some minutes had been moved
+Dustin Baker informed the group he created permanent folders for some files
+in dev.
+
+3. Review meetings 1 and 2 summary
+UI spec status - Tate Moore and Adrian Enache updated the group on status of UI spec.
+First release has been uploaded to GitLab.
+Spec has been re-structured and use cases have been added.
+Dustin upload list of necessary changes to implement after feedback.
+ACTION: dub4
+
+4. Presentation status
+Fin Aubin explained current status of PowerPoint, 
+described changes that were made.
+Further changes required after feedback next week.
+Config reference not needed.
+change slide 1.2
+Dustin to upload identified problems.
+ACTION: dub4
+
+
+5. Any progress on prototype code?
+No progress was made on prototype code this week
+
+New business
+============
+
+1. New Discord server for project discussion.
+James Owen and Fin Aubin made discord server, link on GitLab discord
+Everyone join.
+ACTION: All
+
+2. Is everyone aware of GitLab practices?
+Fin Aubin having trouble with VPN.
+George Cooper agreed to help after the meeting.
+Everyone happy with pulling and pushing.
+ACTION: gwc1
+
+3. 2 or 3 people to work on test specification.
+PF tests need adding.
+Tests need updating after error condition changed.
+More tests required for existing FR.
+ACTION: gwc1, kif11, ade12
+
+4. Test specification review meeting.
+Meeting scheduled for Tuesday 12-1 at High Owen library.
+gwc1/dub4/kif11/ade12 Assigned to review team
+ACTION: gwc1/dub4/kif11/ade12
+
+
+5. 2 people to work on design specification
+Sections 1 and 2 complete.
+ACTION: tam41, jco3
+
+6. prototype coding, implement UI.
+Present UI next week.
+ACTION: fia5
+
+7. Manage issues
+Create new issues after test spec review meeting.
+ACTION: Dub4
+
+AOB
+===
+- Send link to Chris with link to repo, mention changes.
+- Group members decided to meet once a week at Library to discuss the project
+

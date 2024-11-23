@@ -1,0 +1,29 @@
+Author: DUB4
+Week: 2 (06/02/23)
+
+Assigned actions
+==============
+
+Action 1: Two people to produce example tests and report back next week.
+
+	-Outlined test scenarios for all requirements as seen in the requirement specification
+	-Produced some example test cases in the format of a test specification
+
+Hours: 2
+
+
+Other project work
+================
+
+Attended meeting at the library (07/02/23)
+
+Hours: 1
+
+Developed a workflow on GitLab using Milestones, Boards, Labels and Issues.
+Setup the basic layout of the config_refs file.
+
+Hours: 2
+
+Total hours: 5
+
+

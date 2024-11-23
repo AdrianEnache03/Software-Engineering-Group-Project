@@ -1,0 +1,26 @@
+ Aythor: fia5
+ week: 4 (20/02/23)
+
+ Assigned actions
+ ================
+
+2. Review meeting
+George Cooper and Dustin Baker decided to schedule a review meeting
+to discuss the UI specification.
+All attending members decided to look at review standards/QA7
+Meeting was scheduled for 12-1 21/02/2023 at the Hugh Owen Library.
+ACTION: gwc1, dub4, fia5, joc3, ade12, tam41 (attend review meeting)
+
+hours: 2
+
+3. UI use case/presentation improvements.
+3 or 4 people to attend review meeting and work on changes.
+ACTION: fia5, joc3 (Work on presentation changes discussed at review meeting)
+
+hours: 7
+
+ Other project work
+ =================
+ n/a
+
+ Total hours: 9

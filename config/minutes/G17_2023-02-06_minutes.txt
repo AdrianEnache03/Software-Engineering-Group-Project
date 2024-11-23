@@ -1,0 +1,81 @@
+Project: Group Project 17 
+Meeting: Weekly Project Meeting 
+Persons present: All project members except jag89
+Place and date of meeting: MP 2.04, Monday 6th February 2023 
+Circulation list: All project members, plus project manager 
+Author: George Cooper (gwc1) 
+Date of minutes: 6/02/23 
+Version: 1.1
+
+Matters arising 
+===============
+1. Group discussed status of Gitlab repository (point 4 of minutes 30th January). all online apart from jco3 and jag89(status unknown).
+Group agreed to get jco3 online at the meeting on Tuesday.
+ACTION: jco3
+
+2. Fin Aubin reported back on SE.QA.04 (point 5 of minutes 30th January).
+Fin agreed to upload the notes to gitlab.
+ACTION: fia5
+
+3. Group discussed Panopto recording (point 7 of minutes 30th January). All watched apart from jco3 and jag89(status unknown).
+James Owen agreed to watch the lecture before next week.
+ACTION: jco3
+
+4. Group discussed group project intro (point 8 of minutes 30th January). All members read the intro. No further action required.
+
+5. Adrian Enache reported back on SE.QA.06 (point 9 of minutes 30th January). Agreed to upload the notes to gitlab.
+ACTION: ade12
+
+6. Kieran Foy reported back on planned implementation (point 10 of minutes 30th January). He discussed potential classes. 
+Group discussed implementation. Kieran raised concerns about detecting checkmate.
+Group decided to prioritise basic functionality over optional features.
+Kieran agreed to upload notes/implementation plan to gitlab.
+ACTION: kif11
+
+7. Tate Moore reported back on progress of on-screen display (point 11 of minutes 30th January).
+He explained the purpose and functionality of the on-screen display to the group.
+The group decided to use grid pane to represent the chess board.
+Tate agreed to upload his experiments to gitlab.
+ACTION: tam41
+
+8. George Cooper reported back on SE.QA.01, SE.QA.02 and SE.QA.03 (point 12 of minutes 30th January).
+Summary was uploaded to gitlab.
+
+9. Group discussed appointing a leader/QA manager (point 14 of minutes 30th January)
+Group decided to appoint:
+Dustin Baker as QA manager,
+Adrian Enache as deputy QA manager, 
+George Cooper as project leader,
+Kieran Foy as deputy leader.
+
+New business 
+============
+1. Introductions 
+Members absent last week introduced themselves to the rest of the group.
+- dub4 Dustin Baker
+- jco3 James Owen
+
+2. Two people to further develop UI and develop UI prototype screens
+ACTION: fia5, tam41
+
+3. Two people to produce example tests and report back next week.
+ACTION: dub4, jco3
+
+4. One person to look at QA docs 7 and 8, write summary notes and report
+back next week.
+ACTION: ade12
+
+5. Two people to further investigate implementation. 
+Create draft diagrams and pseudo code.
+ACTION: kif11, gwc1
+
+6. Kieran Foy suggested setting a goal for next week.
+Group discussed and agreed to:
+-write some pseudo code/diagrams
+-work on UI (different screens) kif11 bring some examples
+-write some test specifications
+ACTION: All
+
+AOB 
+=== 	
+- Group members decided to meet once a week at Library to discuss the project.

@@ -1,0 +1,72 @@
+Project: Group Project 17 
+Meeting: Weekly Project Meeting 
+Persons present: All project members except dub4,jag89,jco3. 
+Place and date of meeting: MP 2.04, Monday 30th January 2023 
+Circulation list: All project members, plus project manager 
+Author: Muhammad Waqar. 
+Date of minutes: 30/01/23 
+Version: 1.0
+
+Matters arising 
+===============
+NONE.... This is the first week of the group project meeting.
+
+New business 
+============
+1. Introductions 
+ACTION: ALL except dub4,jag89,jco3.
+- gwc1: Cooper, Geoarge
+- kif11: Foy, Kieran
+- fia5: Aubin, Fin
+- ade12: Enache, Adrian
+- tam41: Moore, Tate
+
+
+2. Discuss project brief and intro documents
+ACTION: The chess tutor project is discussed and all members are fimiliar with how to play chest, which is quite useful to develop a software for chess.
+The folder location to the project documentations on blackboard is demonstarted.
+
+3. Role of project manager
+ACTION: To monitor group activities and to keep group on track.
+
+4. Status of group Gitlab repository?
+ACTION: ALL except dub4,jag89,jco3(status unknown). 
+
+5. One or two people to read SE.QA.04 and start working on UI specification
+by making a list of possible use cases based on the requirements document,
+and to report back to the group next week.
+ACTION: fia5 will read SE.QA.04 and will report next week.
+
+7. Everyone must watch the Panopto recording on how to build the UI specification.
+ACTION: ALL
+
+8. Everyone must read the group project introduction document and the 
+requirements specification. 
+ACTION: ALL
+
+9. one or two people to read SE.QA.06 and to 
+start making system tests for the test specification and to 
+report back to the group next week.
+ACTION:ade12 is assigned to read SE.QA.06 and will report next week.
+
+10. One or two people to think about implementation – what kinds 
+of code will you need? What are the difficult problems? 
+Report back findings next week.
+ACTION: kif11 will do this job and will report next week.
+
+11. One or two people to try starting to program the on-screen display: 
+that is get up to speed with javafx. Report back next week.
+ACTION:tam41 will report on this task next week.
+
+12. Someone to look into the documents SE.QA.01, 02 and 03, 
+and to explain how QA works on the project.
+ACTION:gwc1 will look into SE.QA.01, 02 and 03.
+
+13. Start thinking about who should be project leader and quality
+assurance manager and their deputies. Discuss next week.
+ACTION: ALL
+
+AOB 
+=== 	
+- Group members decided to meet once a week at Library to discuss the project.
+- All memebers are also agreed to communicate on the Discord server.

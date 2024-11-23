@@ -1,0 +1,35 @@
+Author: KIF11
+Week: 8 (20/03/23)
+
+Assigned actions
+==============
+
+Action 1: Weekly group meeting
+
+Met in library for weekly meeting, discussed what we will be working on this week
+
+Hours: 1
+
+Action 2: Fix remaining issues in Test Specification
+
+Fixed all remaining issues in Test Specification, including making tests more reproducible
+
+Hours: 2
+
+Action 3: Test Specification review meeting in library 23/03/23
+
+Met in library for Test Specification review, discussed any changes that need to be implemented for version 2.0
+
+Hours: 1
+
+Action 4: Test and document amendments for Test Specification, 15/04/23-17/04/23
+
+Worked on Test Specification over Easter, fixing most of the issues highlighted in the unnoficial review meeting
+
+Hours: 4
+
+Other project work
+================
+n/a
+
+Total hours: 8

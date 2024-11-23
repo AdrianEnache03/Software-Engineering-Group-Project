@@ -1,0 +1,21 @@
+Author: fia5
+Week: 10 (03/05/23)
+
+Assigned actions
+==============
+
+ACTION: fia5 - resize all screens to the corect size, and implement resignation and offering a draw, as well as fixing the game over screen
+completed all of the assigned actions
+
+hours: 7
+	
+
+Other project work
+================
+
+changed some of the fxml for the main board and fixed a load of text allignment issues
+
+hours: 1
+
+Total hours: 8
+	

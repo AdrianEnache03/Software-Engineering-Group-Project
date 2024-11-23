@@ -1,0 +1,16 @@
+Author: JCO3
+Week: 7 (13/03/23) 
+
+Assigned actions 
+==============
+ Added to design document section 5 specifically the pseudocode section
+ Hours: 4 
+ 
+ 
+
+Other Project work
+==================
+Researched more efficient ways to write code for en passant and castling and methods I would need
+Hours: 2
+
+Total Hours: 6

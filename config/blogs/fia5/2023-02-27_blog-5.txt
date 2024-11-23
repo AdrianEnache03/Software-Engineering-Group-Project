@@ -1,0 +1,17 @@
+ Aythor: fia5
+ week: 5 (27/02/23)
+
+ Assigned actions
+ ================
+
+6. prototype coding, implement UI.
+Present UI next week.
+ACTION: fia5
+
+hours: 5
+
+ Other project work
+ =================
+ n/a
+
+ Total hours: 5

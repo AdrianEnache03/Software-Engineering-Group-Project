@@ -1,0 +1,43 @@
+Author: DUB4
+Week: 10 (24/04/23)
+
+Assigned actions
+==============
+
+Action 1: UI Presentation
+
+	- Produce issues for remaining ammendments
+
+Hours: 2
+
+Action 2: Test Report Table
+	- Revisited SE.QA.10
+	- Created template document for Test Table
+	- Added Tests From Test Spec with Result and Explanation Columns
+
+Hours: 2
+
+Other project work
+================
+
+Review - Design Spec
+	- On-going reviews for design Spec
+
+Hours: 0
+
+Tidied Repository
+	- Removed unecessary files
+	- Re-located incorrectly located files
+	- Updated Config_refs.txt -> .csv
+	- Reviewed Blogs - Addeded Blog ammendments for JC03
+
+Hours: 1
+
+Coding Standards Review
+	- Created a summary document for coding standards
+	- Created Issues Template for classes
+	- Uploaded issues for each class as outlined in design spec, in prep for intergration week
+
+Hours: 4
+
+Total hours: 9

@@ -1,0 +1,20 @@
+Author: ade12
+Week: 3 (06/02/23)
+
+Assigned actions
+==============
+
+Action 1:Upload last weeks work to repository
+
+Action 2:2 people to work on draft use case document to describe the use cases and report back next week (see SE.QA.04 for more info).
+	
+
+Hours: 4
+
+Other project work
+================
+Looked through some of the SE.QA documents
+Hours: 1
+
+
+Total hours: 5

@@ -1,0 +1,19 @@
+Author: ade12
+Week: 2 (06/02/23)
+
+Assigned actions
+==============
+
+Action 1:one or two people to read SE.QA.07 and SE.AQ.08 and to 
+start making system tests for the test specification and to 
+report back to the group next week.
+	-read SE.QA.07 and SE.AQ.08 and will report next week
+	
+
+Hours: 3
+
+Other project work
+================
+Creating the documents in the correct way described in SE.QA.07
+Hours: 1
+Total hours: 4

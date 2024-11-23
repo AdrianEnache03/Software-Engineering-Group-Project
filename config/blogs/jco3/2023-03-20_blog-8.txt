@@ -1,0 +1,16 @@
+Author: JCO3
+Week: 8 (20/03/23) 
+
+Assigned actions 
+==============
+ Worked on programming specifically en passant, check discovered check etc 
+ Hours: 5 
+ 
+ 
+
+Other Project work
+==================
+Ammended to section 5 of the design document
+Hours: 2
+
+Total Hours: 7

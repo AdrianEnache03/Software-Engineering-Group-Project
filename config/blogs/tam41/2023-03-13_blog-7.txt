@@ -1,0 +1,33 @@
+Author: tam41
+Week: 7 (13/03/23)
+
+Assigned actions
+==============
+
+Action 1: 
+	Design Doc with jco3
+		- made a vast number of adjustments to section 2
+		- redid component diagram for section 3.
+		- adjusted references and scope
+Hours: 6
+
+
+Action 2: 
+	Attended meeting on Tuesday
+Hours: 2
+
+
+Action 3: 
+	Attended Review Meeting on Wednesday
+Hours: 1
+
+
+Action 4: 
+	Attended Review Meeting on Monday (20)
+Hours: 1
+
+
+Other project work
+================
+
+Total hours: 10

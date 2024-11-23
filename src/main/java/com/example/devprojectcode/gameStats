@@ -1,0 +1,14 @@
+/**
+ * @(#) gameStats.java 1.0 2023/02/07
+ *
+ * Copyright (c) 2023 Aberystwyth University.
+ * All rights reserved.
+ *
+ */
+
+ /**
+  * @author Kieran Foy, kif11
+  */
+
+Format for file reading: TYPE COLOR (X co-ordinate,Y co-ordinate)
+e.g.: WHITE QUEEN (2,6)

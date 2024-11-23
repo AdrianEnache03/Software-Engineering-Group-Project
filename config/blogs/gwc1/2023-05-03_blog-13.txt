@@ -1,0 +1,28 @@
+Author: gwc1
+Week: 11 (03/05/23)
+
+
+Assigned actions
+==============
+
+1. Worked on UI
+	1.1. Updated board design to fit better and update usernames
+	1.2. Updated game over, offer draw screens so buttons work 
+	
+	
+2. Fixed bugs
+	2.1. Fixed bishop bug that prevented movement
+	2.2. Numerous check/checkmate bugs
+	2.3. Fixed king breaking other pieces when in check bug
+	2.4. Fixed bug which allowed you to select other pieces when it is not your turn 
+	2.5. Updated fxml file names to follow standards, removed some that were not needed
+	
+	
+3. Worked on Pawn Promotion
+	3.1. Adjusted where pawn promotion was called from
+	
+4. Made check method more efficient
+5. Made checkmate method more efficient
+6. Added more comments
+	
+Total hours: 8

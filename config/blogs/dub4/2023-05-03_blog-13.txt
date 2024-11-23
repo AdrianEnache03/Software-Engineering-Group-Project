@@ -1,0 +1,27 @@
+Author: DUB4
+Week: 11 (03/05/23)
+
+Assigned actions
+==============
+
+Action 1: Implement Castling
+
+	- Attempted to implement castling
+	- Due to lack of knowledge of the source code I struggled to understand implementation
+	- Passed over implementaion to George Cooper
+
+Hours: 3
+
+Action 2: System Testing
+
+	- Began Iteration 1 of system tests
+	- Added issues related to failed test cases
+
+Hours: 4
+
+Other project work
+================
+
+N/A
+
+Total hours: 7

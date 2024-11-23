@@ -1,0 +1,34 @@
+Author: DUB4
+Week: 5 (27/02/23)
+
+Assigned actions
+==============
+
+Action 1: Upload list of nescessary changes to implement after feedback - UI Spec
+
+	-Provided comments on gitlab issues with all changes necessary
+
+Hours: 2
+
+Action 2: Review Meeting - Test Specification
+
+	-Compilied List of Required Documentation
+	-Conducted Review Meeting
+	-Assigned issues/comments relating to ammendments
+	-Produced a list of specific changes requrired
+
+Hours: 4
+
+
+Other project work
+================
+
+Ammended and tidied the repository according to QA Feedback from Chris Loftus
+
+Hours: 1
+
+Created issues relating to Feeback on UISpec from Chris Loftus
+
+Hours: 1
+
+Total hours: 8

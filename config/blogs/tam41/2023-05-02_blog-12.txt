@@ -1,0 +1,18 @@
+Author: tam41
+Week: 11 (02/05/23)
+
+Assigned actions
+==============
+
+Action 1: 
+	Finished some writing to json methods.
+Hours: 2
+
+Action 2: 
+	Researched gson (loading to file) and added code for loading from a json file.
+Hours: 5
+
+Other project work
+================
+
+Total hours: 7

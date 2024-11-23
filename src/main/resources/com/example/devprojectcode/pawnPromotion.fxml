@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane focusTraversable="true" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.devprojectcode.UIControllers.PawnPromotionScreenController">
+    <children>
+      <ImageView fitHeight="800.0" fitWidth="800.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@wooden board texture coloured.png" />
+         </image>
+      </ImageView>
+        <Pane cacheShape="false" depthTest="DISABLE" focusTraversable="true" layoutX="200.0" layoutY="300.0" prefHeight="200.0" prefWidth="400.0" scaleShape="false" style="-fx-background-color: white; -fx-border-radius: 15; -fx-border-color: black; -fx-background-radius: 15;">
+            <children>
+                <Text focusTraversable="true" layoutX="56.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Pawn Promotion" wrappingWidth="287.5166015625">
+                    <font>
+                        <Font size="33.0" />
+                    </font>
+                </Text>
+                <ImageView fitHeight="80.0" fitWidth="80.0" focusTraversable="true" layoutX="7.0" layoutY="80.0" onMouseClicked="#handleQueen" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@Pieces/Black_Queen.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="80.0" fitWidth="80.0" focusTraversable="true" layoutX="102.0" layoutY="80.0" onMouseClicked="#handleKnight" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@Pieces/Black_Knight.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="80.0" fitWidth="80.0" focusTraversable="true" layoutX="210.0" layoutY="80.0" onMouseClicked="#handleBishop" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@Pieces/Black_Bishop.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="80.0" fitWidth="80.0" focusTraversable="true" layoutX="304.0" layoutY="80.0" onMouseClicked="#handleRook" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@Pieces/Black_Rook.png" />
+                    </image>
+                </ImageView>
+            </children>
+        </Pane>
+    </children>
+</AnchorPane>

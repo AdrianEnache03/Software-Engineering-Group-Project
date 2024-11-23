@@ -1,0 +1,34 @@
+Author: tam41
+Week: 2 (06/02/23)
+
+Assigned actions
+==============
+
+Action 1: 
+	User interface task –
+		UI prototype screens, 
+		actions from feedback on what’s done, 
+		time to start filling in sections 
+		(typical users, use cases) and to improve any existing screens
+	Partner: fia5
+	
+	What we've done –
+		Created a UI plan document covering:
+			Possible users – the types of users there are.
+			Guidance – analysing and explaining what guidance the users need.
+			Different Scenes – analysing each possible scene we need.
+			Use Cases – User tasks, use case diagrams, possible errors.
+			Paper UI Prototype – Images of paper scene/UI protoypes.  
+
+		Created basic chessboard (no pieces) with gridpane in javafx.
+		
+Hours: 4
+
+Action 2: Attended a meeting in the library to do work and discuss the project
+
+Hours: 2
+
+Other project work
+================
+
+Total hours: 6

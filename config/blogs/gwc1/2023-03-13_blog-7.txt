@@ -1,0 +1,44 @@
+Author: gwc1
+Week: 7 (13/03/23)
+
+Assigned actions
+==============
+
+Action 1: Meeting in the library
+Met in the library, discussed which parts of the project needed changing.
+
+Hours: 1
+
+Action 2: Hosted review meeting 15/03/23
+Met at Hugh Owen Library to review Design specification, wrote minutes and recorded
+changes to be made.
+
+Hours: 1
+
+Action 3: Worked on chess tutor
+	- Added board generation method
+		- Tested board genereation method to make sure positions of pieces
+		in grid pane match position in array.
+	- Added rotation method to rotate board
+	- Fixed UI bugs (inability to click buttons/fill in text field)
+	- Expermented with Json, implemented early saving and loading
+
+Hours: 4
+
+
+Other project work
+================
+
+Action 1: Prepared for meeting.
+
+Wrote list of tasks to complete for next week for the meeting.
+Made sure design spec was uploaded before tutorial
+
+Hours: 1
+
+Action 2: Updated a spreadsheet to record group hours spent working
+on the project, added section to keep track of milestones.
+
+Hours: 1
+
+Total Hours: 8

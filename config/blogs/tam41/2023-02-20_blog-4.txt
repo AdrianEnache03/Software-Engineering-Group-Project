@@ -1,0 +1,26 @@
+Author: tam41
+Week: 4 (20/02/23)
+
+Assigned actions
+==============
+
+Action 1: 
+	I have been working with ade12, we have been working on the User Inteface Specification Document.
+		-Added and change multiple things across all sections.
+			
+Hours: 7
+
+Action 2: Attended a meeting in the library to do work and discuss the project
+
+Hours: 2
+
+Action 3: Attended a review meeting to review the UI.
+
+Hours: 1
+
+Action 
+
+Other project work
+================
+
+Total hours: 8

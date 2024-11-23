@@ -1,0 +1,31 @@
+Author: DUB4
+Week: 4 (20/02/23)
+
+Assigned actions
+==============
+
+Action 1: Review Meeting - UI Spec (21/02/23)
+
+	- Compiled Checklist and documents
+	- Held Review Meeting
+	- Assigned Issues Based on the Review
+	- Performed ongoing review checkups
+
+Hours: 5
+
+Action 2: QA manager to work on review meeting, manage issues, tidy up repository (21/02/23)
+
+	- Assigned Issues Based on Actions as seen in this weeks minutes
+	- Tidied Repository
+
+Hours: 1
+
+Other project work
+================
+
+Produced Review Checklist Templates for future reviews to enusre Quality Assurance standards are met consistently
+
+Hours: 3
+
+
+Total hours: 9

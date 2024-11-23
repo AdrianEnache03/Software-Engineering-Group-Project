@@ -1,0 +1,32 @@
+Author: KIF11
+Week: 10 (24/04/23)
+
+Assigned actions
+==============
+
+Action 1: Weekly group meeting
+
+Met in library for weekly meeting, discussed what we will be working on this week
+
+Hours: 1
+
+Action 2: Write tests for Bishop, Knight and Rook class
+
+Wrote several test cases for the specified classes
+
+Hours: 2
+
+
+
+
+Other project work
+================
+
+Action 1: Wrote JavaDoc comments for all classes that didn't currenlty have them
+
+Wrote/updated the JavaDoc comments at the header of each file
+
+Hours: 1
+
+
+Total hours: 4

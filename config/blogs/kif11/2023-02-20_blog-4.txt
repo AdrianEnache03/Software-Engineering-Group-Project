@@ -1,0 +1,41 @@
+Author: KIF11
+Week: 4 (20/02/23)
+
+Assigned actions
+==============
+
+Action 1: Weekly group meeting
+
+Met in library for weekly meeting, discussed tasks for the week with group members, started writing the introduction of the design specification
+
+Hours: 1
+
+Action 2: Review meeting in library, 12-1 21/02/23
+
+Met in library for review meeting to go over the current UI Specification draft, what passed the requirements and what failed the requirements
+
+Hours: 1
+
+Action 3: Watch the Panopto recordings for the week
+
+Watched recorded lectures L4B
+
+Hours: 1
+
+Action 4: Write tests for Functional Requirements 7-11 for the Test Specification Draft
+
+I wrote tests for the specified functional requirements in excel and added them to the test specification written by gwc1 and dub4
+
+Hours: 5
+
+Action 5: Second review meeting in library, 10-11 23/02/23
+
+Met in library for second review of UI Specification draft to discuss the improvements and what still needed to be done
+
+Hours: 1
+
+Other project work
+================
+n/a
+
+Total hours: 9

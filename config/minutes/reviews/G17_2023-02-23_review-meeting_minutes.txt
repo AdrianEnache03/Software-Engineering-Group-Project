@@ -1,0 +1,96 @@
+Project: Group Project 17 
+Meeting: UI Specification Review Meeting 1
+Persons present: gwc1, dub4, fia5, ade12, tam41, kif11 (jco3 absent)
+Place and date of meeting: Hugh Owen Library, Tuesday 23rd February 2023 
+Circulation list: All review team members and kif11
+Author: George Cooper (gwc1) 
+Date of minutes: 23/02/23 
+Version: 1
+
+Matters arising 
+===============
+
+1. Document contains correct config ref?
+Yes, no further action required.
+
+2. Document contains the date for production of the latest version
+Yes, no further action required.
+
+3. Document contains the correct version number
+No, update version numbers
+ACTION: ade12, tam41
+
+4. Document contains scope
+Yes, no further action required.
+
+5. Document contains objectives
+Yes, no further action required.
+
+6. Document contains  a <Main Body> with appropriate sections
+Yes, no further action required.
+
+7. Document contains a "References" section
+Yes, no further action required.
+
+8. "Change History" contains Version Numbers
+No, update version numbers.
+ACTION: ade12, tam41
+
+9. "Change History" contains Date
+Yes, no further action required.
+
+10. "Change History" contains changes made
+No, too much detail, adjust comments.
+ACTION: ade12, tam41
+
+11. Fonts are appropriate in headers and in the body/text.
+Yes, no further action required.
+
+12. Figures contain a figure number and discription.
+Yes, no further action required.
+
+13. Document meets the document standards.
+No, make changes above.
+ACTION: ade12, tam41
+
+14. Gives good real-world examples of a wide range of users
+No, section needs restructuring.
+ACTION: ade12, tam41
+
+15. Use Cases cover all items in the requirements specification
+No, section needs to reiterate requirements.
+ACTION: ade12, tam41
+
+16. Use cases give sufficient detail of what will happen in each case
+Yes, no further action required.
+
+17. Use cases matches what is said in the requirements
+No, restructre to resemble example doc.
+ACTION: ade12, tam41
+
+18. No missing requirements where appropriate
+No, restructure to resenmple example docs
+ACTION: ade12, ram41
+
+19. Error conditions represent wrong inputs
+Yes, no further action required.
+
+20. Presentation contains a title/config ref/authors
+No, author and config ref need adding
+ACTION: fia5, jco3
+
+21. Presentation covers each use cases
+No, new use cases need adding
+ACTION: fia5, jco3
+
+23. Presentations gives sufficient detail that you can understand what is need tot implement the UI
+No, tidy up assets to represtn correct states
+ACTION: fia5, jco3
+
+New business
+============
+
+1. Dustin Baker agreed to write comments on documetns and create new issues
+ACTION: dub4
+
+

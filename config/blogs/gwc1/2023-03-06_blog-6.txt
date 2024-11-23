@@ -1,0 +1,42 @@
+Author: gwc1
+Week: 6 (06/03/23)
+
+Assigned actions
+==============
+
+Action 1: Meeting in the library to discuss project.
+
+Met in the library, discussed which parts of the coding needed working on this week. 
+Tidied up minutes.
+
+Hours: 1
+
+Action 2: Met with Dub4 to discuss progress on design specification.
+Wrote improvements and changes that need to be made.
+
+Hours: 1
+
+Action 3: Worked on chess tutor.
+Added code in Game class to generate UI screens
+Created UI controllers
+Implemented most of the UI screens (Main menu, Login, Main board and pause)
+Added methods to handle button presses.
+
+Hours: 5
+
+Other project work
+================
+
+Action 1: Prepared for meeting.
+
+Wrote list of tasks to complete for next week for the meeting.
+Made sure test spec was uploaded before tutorial
+
+Hours: 1
+
+Action 2: Watched lectures L6C-L5E, Updated a spreadsheet to record group hours spent working
+on the project
+
+Hours: 1
+
+Total Hours: 9

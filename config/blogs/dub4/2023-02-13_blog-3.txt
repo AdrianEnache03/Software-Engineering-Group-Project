@@ -1,0 +1,27 @@
+Author: DUB4
+Week: 3 (13/02/23)
+
+Assigned actions
+==============
+
+Action 1: 1 person to combine test specification work into a draft document and work on final draft tests for all requirements.
+
+	-Intergrated external Test Case table into Test Specification document
+	-Added additional exmaple Tests
+
+Hours: 4
+
+Other project work
+================
+
+Attended meeting at the library (14/02/23)
+Assigned Issues Based on Actions as seen in this minutes for 13/02/2023
+
+Hours: 1
+
+Researched into formal review meetings.
+	-Summarised findings for furture meetings
+
+Hours: 1
+
+Total hours: 6

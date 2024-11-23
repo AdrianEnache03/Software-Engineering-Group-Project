@@ -1,0 +1,29 @@
+Author: gwc1
+Week: 3 (13/02/23)
+
+Assigned actions
+==============
+
+Action 2: Meeting in the library to discuss project.
+
+Met in the library, discussed design specification. 
+Tidied up minutes and uploaded.
+
+Hours: 2
+
+Action 3: Completed section 2 of the design specification
+and created/updated a spreadsheet to record group hours spent working
+on the project.
+
+Hours: 3
+
+Other project work
+================
+
+Action 1: Prepared for meeting.
+
+Wrote list of tasks to complete for next week for the meeting.
+
+Hours: 1
+
+Total hours: 6

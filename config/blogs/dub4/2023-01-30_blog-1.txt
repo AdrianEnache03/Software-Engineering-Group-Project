@@ -1,0 +1,19 @@
+Author: DUB4
+Week: 1 (30/01/23)
+
+Assigned actions
+==============
+
+Action 1: Everyone must read the group project introduction document and the 
+requirements specification.
+	
+	-Read Project Introduction
+	-Read Requirements Specification
+
+Hours: 1
+
+Other project work
+================
+n/a
+
+Total hours: 1

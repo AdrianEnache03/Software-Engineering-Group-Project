@@ -1,0 +1,17 @@
+Author: ade12
+Week: 11 (01/05/23)
+
+Assigned actions
+==============
+Action 1: Save/ load function for replay.
+    Make the whole board to be saved
+    Fix the naming of the files 
+    Save data into a new file (no finished)
+
+Hours: 6 hour
+
+Other project work
+================
+
+Total hours: 6 hours
+

@@ -1,0 +1,16 @@
+Author: ade12
+Week: 6 (06/03/23)
+
+Assigned actions
+==============
+
+Action 1:Do the improvements from the reviews
+Hours: 6
+
+Other project work
+================
+Action 1: Make it so that I can push and pull from repository (I ended up needing to clone the repository onto a different drive than my M drive)
+All I have left to do is give it my username and password.
+Hours: 2
+
+Total hours: 8

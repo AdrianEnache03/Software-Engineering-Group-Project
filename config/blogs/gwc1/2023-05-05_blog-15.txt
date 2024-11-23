@@ -1,0 +1,22 @@
+Author: gwc1
+Week: 11 (05/05/23)
+
+
+Assigned actions
+==============
+
+1. Worked on UI
+	1.1. Updated board screen to include left and right buttons
+	
+2. Fixed bugs
+	2.1. Fixed piece highlighting bug
+	2.2. Fixed en passant one square bug
+	2.3. Fixed en passant normal move bug
+	2.4. Fixed castling bug where rook moved to odd square 
+	
+3. Worked on front end for replay.
+	
+	
+4. Added comments to many more classes
+	
+Total hours: 5

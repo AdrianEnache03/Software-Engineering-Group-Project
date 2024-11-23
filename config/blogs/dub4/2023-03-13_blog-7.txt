@@ -1,0 +1,41 @@
+Author: DUB4
+Week: 7 (13/03/23)
+
+Assigned actions
+==============
+
+Action 1: Repository + Issue Management
+
+	-Notified JCO3/KIF11 of issues with their blogs
+	-Assigned issues based on this weeks minutes
+	-Assigned issues based on Test Specification Feedback from Chris Loftus
+	-Fixed Config Refs to reference source
+
+Hours: 2
+
+Action 2: Review Meeting for Design Spec
+
+	-Conducted ongoing reviews of the Design Spec
+	-Compiled all required documents
+	-Conducted Unofficial review meeting with GCW1 to discuss some potential changes
+	-Assigned issues based on review notes
+
+Hours: 3
+
+Action 3: UI Presentation/Specification Ammendments
+	
+	-Reviewed Mockup-Images
+	-Ongoing review of specification
+
+Hours: 1
+
+
+Other project work
+================
+
+Assigned issues based on Test Specification feedback from Christ Loftus
+
+Hours: 1
+
+
+Total hours: 7

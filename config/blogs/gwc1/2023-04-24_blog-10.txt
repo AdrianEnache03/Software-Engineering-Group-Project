@@ -1,0 +1,40 @@
+Author: gwc1
+Week: 10 (24/04/23)
+
+Assigned actions
+==============
+
+Action 1: Meeting in the library
+Met in the library, discussed project progress, updated minutes
+
+Hours: 1
+
+
+
+Action 2. Worked on programming chess tutor
+	2.1. Added method to get and store player names
+	2.2. Worked on piece blocking
+		2.2.1. Added piece blocking method to Piece
+		2.2.2. Implemented blocking method for rook
+		2.2.2. Implemented blocking method for pawn
+	2.3. Fixed bugs
+		2.3.1. fixed bug which prevented rook from taking pieces
+	2.4. Added call for pawn taking
+	2.5. Implemented en passant
+	
+	
+	
+Hours: 7
+	
+
+Other project work
+================
+
+Action 1: Updated a spreadsheet to record group hours spent working
+on the project.
+Updated task progress.
+
+Hours: 1
+
+Total hours: 9
+	

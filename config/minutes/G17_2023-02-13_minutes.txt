@@ -1,0 +1,67 @@
+Project: Group Project 17 
+Meeting: Weekly Project Meeting 
+Persons present: All project members except jag89
+Place and date of meeting: MP 2.04, Monday 13th February 2023 
+Circulation list: All project members, plus project manager 
+Author: George Cooper (gwc1) 
+Date of minutes: 13/02/23 
+Version: 1.3
+
+Matters arising 
+===============
+
+1. Status of gitlab, is everyone online?
+Group discussed gitlab, everyone online apart from jag89.
+Dustin Baker explained issues, structure, milestones and where to put files to the group.
+
+2. Has everyone uploaded files?
+Everyone uploaded blogs apart from jco3. 
+Everyone uploaded this week’s work apart from ade12.
+ACTION: jco3, ade12 
+
+3. UI development (fia4, tam41, point 2 of minutes 6th February)
+Tate Moore reported back on use cases, Fin Aubin showed UI mock-ups.
+Group decided to focus on functional requirements first such as piece selection (black or white) 
+before optional extras such as board looks.
+Tate showed mock-up of board, group was happy with mock-up.
+
+4.  Dustin Baker and James Owen reported back on the example tests (point 3 of minutes 6th February).
+dub4 showed example test specification to the group.
+Example test cases were shown off.
+
+
+5. QA docs summary ade12, (point 4 of minutes 6th February)
+Adrian Enache reported back on doc SE.QA.07 and SE.QA.08.
+All group members understood the documentation after discussion.
+Adrian agreed to upload the summary to gitlab.
+ACTION: ade12
+
+6. Implementation/Design kif11, gwc1 (point 5 of minutes 6th February)
+Kieran Foy reported back on pseudo code. 
+George Cooper discussed the classes and draft design spec.
+Group agreed to combine work to make draft deliverables.
+Adrian Enache asked about saving game. Dustin Baker suggested using fen strings.
+
+New business
+============
+
+1. 2 people to work on draft use case document to describe the use cases and report back next week (see SE.QA.04 for more info).
+ACTION: ade12, tam41
+
+2. 1 or 2 people to produce draft Interactive online presentation which shows the user experience.
+Mock-up UI screen required for every use case (see example PowerPoint on blackboard for more info)
+ACTION: jco3, fia5
+
+3. 1 person to work on mock-up screens for the PowerPoint.
+ACTION: fia5
+
+4. 1 person to combine test specification work into a draft document and work on final draft tests for all requirements.
+ACTION: dub4
+
+5. 2 people to continue work on draft design specification document and report back next week on progress.
+ACTION: kif11, gwc1
+
+AOB 
+=== 	
+- Group members decided to meet once a week at Library to discuss the project.
+- Think about review meeting date.

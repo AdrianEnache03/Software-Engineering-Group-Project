@@ -1,0 +1,19 @@
+Author: KIF11
+Week: 11 (04/05/23)
+
+Assigned actions
+==============
+
+Action 1: Fix bug which caused board to not reset and player names to not clear after they quit the game
+
+Fixed the bug listed above, took much longer than it should because out of practice with Java
+
+Hours: 4
+
+Action 2: Write JavaDoc comments for classes that don't have them yet
+
+Wrote JavaDoc comments for most of the classes in the Game class that didn't have them
+
+Hours: 1
+
+Total hours: 5

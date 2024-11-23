@@ -1,0 +1,15 @@
+Author: ade12
+Week: 10 (24/04/23)
+
+Assigned actions
+==============
+Action 1: Save/ load function for replay.
+    
+
+Hours: 5 hour
+
+Other project work
+================
+
+Total hours: 5 hours
+

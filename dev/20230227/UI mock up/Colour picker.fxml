@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ColorPicker?>
+<?import javafx.scene.effect.GaussianBlur?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="816.0" fitWidth="806.0" layoutX="-202.0" layoutY="-402.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@wooden%20board%20texture%20coloured.png" />
+         </image>
+         <effect>
+            <GaussianBlur />
+         </effect>
+      </ImageView>
+      <ColorPicker editable="true" layoutX="240.0" layoutY="208.0" />
+      <ColorPicker editable="true" layoutX="418.0" layoutY="301.0">
+         <value>
+            <Color />
+         </value>
+      </ColorPicker>
+      <Text layoutX="135.0" layoutY="104.0" stroke="WHITE" strokeType="OUTSIDE" strokeWidth="3.0" text="Colour Picker">
+         <font>
+            <Font size="50.0" />
+         </font>
+      </Text>
+      <Text layoutX="19.0" layoutY="231.0" stroke="WHITE" strokeType="OUTSIDE" strokeWidth="3.0" text="Player 1 colour" wrappingWidth="232.439453125">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+      <Text layoutX="193.0" layoutY="324.0" stroke="WHITE" strokeType="OUTSIDE" strokeWidth="3.0" text="Player 2 colour" wrappingWidth="212.439453125">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

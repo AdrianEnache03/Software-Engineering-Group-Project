@@ -1,0 +1,51 @@
+Author: gwc1
+Week: 8 (20/03/23)
+
+Assigned actions
+==============
+
+Action 1: Meeting in the library
+Met in the library, discussed which parts of the project needed changing.
+
+Hours: 1
+
+Action 2: Hosted review meeting 23/03/23
+Met at Hugh Owen Library to review test specification, wrote minutes and recorded
+changes to be made.
+
+Hours: 1
+
+Action 3: Worked on chess tutor
+	- Added movement for knight
+		- Added rules to knight class
+		- Added method in Game to update array
+		- Updated UI to reflect movement
+	- Updated names of classes to reflect design document
+	- Implemented turns
+		- Added turn tracker
+		- Board rotates after every turn
+		- Added rule to prevent player from moving piece when it is not their turn
+
+Hours: 5
+
+
+Other project work
+================
+
+Action 1: Updated a spreadsheet to record group hours spent working
+on the project.
+
+Hours: 1
+
+Action 2: Started to plan ITW week, looked at Library booking,
+wrote list of tasks and persons interested in undertaking tasks during ITW week.
+
+Hours: 1
+
+Total Hours: 9
+
+Work over Easter
+================
+
+Added movement for all other pieces
+Began implementing taking

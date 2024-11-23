@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="1080.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="1000.0" fitWidth="1000.0" pickOnBounds="true" preserveRatio="true" y="40.0">
+         <image>
+            <Image url="@wooden%20board%20texture%20coloured.png" />
+         </image>
+      </ImageView>
+      <GridPane layoutY="40.0" prefHeight="1000.0" prefWidth="1000.0">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="6">
+               <image>
+                  <Image url="@Pieces/White_Knight.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="4">
+               <image>
+                  <Image url="@Pieces/check.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="7" GridPane.rowIndex="7">
+               <image>
+                  <Image url="@Pieces/Black_Rook.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.rowIndex="7">
+               <image>
+                  <Image url="@Pieces/Black_Bishop.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="5" GridPane.rowIndex="7">
+               <image>
+                  <Image url="@Pieces/Black_Bishop.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="6" GridPane.rowIndex="7">
+               <image>
+                  <Image url="@Pieces/Black_Knight.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="3" GridPane.rowIndex="7">
+               <image>
+                  <Image url="@Pieces/Black_Queen.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="4" GridPane.rowIndex="7">
+               <image>
+                  <Image url="@Pieces/Black_King.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="4" GridPane.rowIndex="6">
+               <image>
+                  <Image url="@Pieces/Black_Pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="6">
+               <image>
+                  <Image url="@Pieces/Black_Pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.rowIndex="6">
+               <image>
+                  <Image url="@Pieces/Black_Pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="3" GridPane.rowIndex="6">
+               <image>
+                  <Image url="@Pieces/Black_Pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="6" GridPane.rowIndex="6">
+               <image>
+                  <Image url="@Pieces/Black_Pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.rowIndex="1">
+               <image>
+                  <Image url="@Pieces/White_Pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.rowIndex="1">
+               <image>
+                  <Image url="@Pieces/White_Pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="3" GridPane.rowIndex="1">
+               <image>
+                  <Image url="@Pieces/White_Pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="4" GridPane.rowIndex="1">
+               <image>
+                  <Image url="@Pieces/White_Pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.rowIndex="1">
+               <image>
+                  <Image url="@Pieces/White_Pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="6" GridPane.rowIndex="1">
+               <image>
+                  <Image url="@Pieces/White_Pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="7" GridPane.rowIndex="1">
+               <image>
+                  <Image url="@Pieces/White_Pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@Pieces/White_Rook.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="7">
+               <image>
+                  <Image url="@Pieces/White_Rook.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="138.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1">
+               <image>
+                  <Image url="@Pieces/White_Knight.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2">
+               <image>
+                  <Image url="@Pieces/White_Bishop.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="5" GridPane.rowIndex="1">
+               <image>
+                  <Image url="@Pieces/White_Bishop.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="3">
+               <image>
+                  <Image url="@Pieces/White_Queen.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.rowIndex="6">
+               <image>
+                  <Image url="@Pieces/Black_Rook.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120" fitWidth="120" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="7" GridPane.rowIndex="6">
+               <image>
+                  <Image url="@Pieces/Black_Pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="120.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="4">
+               <image>
+                  <Image url="@Pieces/Black_Knight.png" />
+               </image>
+            </ImageView>
+         </children>
+      </GridPane>
+      <GridPane layoutX="-4.0" prefHeight="40.0" prefWidth="1000.0" style="-fx-background-color: FFFFFF;">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="40.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Player 1" GridPane.columnIndex="15" />
+            <ImageView fitHeight="40.0" fitWidth="133.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@Pieces/Black_Pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="138.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1">
+               <image>
+                  <Image url="@Pieces/Black_Pawn.png" />
+               </image>
+            </ImageView>
+         </children>
+      </GridPane>
+      <GridPane layoutY="1040.0" prefHeight="40.0" prefWidth="1000.0" style="-fx-background-color: #000000;">
+         <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="62.5" />
+         </columnConstraints>
+         <rowConstraints>
+            <RowConstraints minHeight="10.0" prefHeight="40.0" vgrow="SOMETIMES" />
+         </rowConstraints>
+         <children>
+            <Text fill="WHITE" strokeType="OUTSIDE" strokeWidth="0.0" text="Player 2" GridPane.columnIndex="15" />
+            <ImageView fitHeight="138.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@Pieces/White_Pawn.png" />
+               </image>
+            </ImageView>
+         </children>
+      </GridPane>
+      <AnchorPane disable="true" prefHeight="1080.0" prefWidth="1000.0" style="-fx-background-color: black; -fx-opacity: 0.7;" />
+      <Pane cacheShape="false" depthTest="DISABLE" layoutX="300.0" layoutY="403.0" mouseTransparent="true" prefHeight="237.0" prefWidth="400.0" scaleShape="false" style="-fx-background-color: white; -fx-border-radius: 15; -fx-border-color: white; -fx-background-radius: 15;">
+         <children>
+            <Button layoutX="100.0" layoutY="154.0" mnemonicParsing="false" prefHeight="24.0" prefWidth="200.0" style="-fx-background-color: black;" text="Main menu" textFill="WHITE" />
+            <Button layoutX="100.0" layoutY="189.0" mnemonicParsing="false" prefHeight="24.0" prefWidth="200.0" style="-fx-background-color: black;" text="Quit" textFill="WHITE" />
+            <Button layoutX="100.0" layoutY="119.0" mnemonicParsing="false" prefHeight="24.0" prefWidth="200.0" style="-fx-background-color: Black;" text="New game" textFill="WHITE" />
+            <Text layoutX="-13.0" layoutY="58.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Game over!" textAlignment="CENTER" wrappingWidth="426.01904296875">
+               <font>
+                  <Font size="33.0" />
+               </font>
+            </Text>
+            <Text layoutX="-13.0" layoutY="98.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Player 2 wins" textAlignment="CENTER" wrappingWidth="426.01904296875">
+               <font>
+                  <Font size="33.0" />
+               </font>
+            </Text>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

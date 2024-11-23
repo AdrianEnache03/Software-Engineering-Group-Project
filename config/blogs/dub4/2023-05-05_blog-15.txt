@@ -1,0 +1,26 @@
+Author: DUB4
+Week: 11 (05/05/23)
+
+Assigned actions
+==============
+
+Action 2: Complete Test Report - Regression 3
+
+	- Added further Issues for failed test cases / improvements
+
+Hours: 2
+
+Other project work
+================
+Fixed some structure in multiple classes
+
+Hours: 6
+
+Attempted to fix src structure
+
+	- Tried adjusting current packages to match structure standards for hand-in
+	- Failed to, so src folder contains code that doesnt completley meet QA Standards
+
+Hours: 1
+
+Total hours: 9

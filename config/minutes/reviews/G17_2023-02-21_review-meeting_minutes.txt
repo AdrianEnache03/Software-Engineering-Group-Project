@@ -1,0 +1,129 @@
+Project: Group Project 17 
+Meeting: UI Specification Review Meeting 1
+Persons present: gwc1, dub4, fia5, ade12, tam41, kif11 (jco3 absent)
+Place and date of meeting: Hugh Owen Library, Tuesday 21st February 2023 
+Circulation list: All review team members and kif11
+Author: George Cooper (gwc1) 
+Date of minutes: 21/02/23 
+Version: 1.1
+
+Matters arising 
+===============
+n/a first review meeting
+
+New business
+============
+
+1. Review team discussed status of specification.
+	
+	1.1. Review team discussed status of front page.
+		
+		1.1.1. Does document have a title?
+		The document has a title.
+
+		1.1.2. Does document contain correct config reference?
+		Add config ref to spreadsheet.
+		ACTION: ade12, tam41
+
+		1.1.3. Does document contain date?
+		Update the date after each new version.
+		ACTION: ade12, tam41
+
+		1.1.4. Does document contain correct version number?
+		Version number needs changing.
+		ACTION: ade12, tam41
+
+		1.1.5. Is the document status correct?
+		Document status was correct.
+
+		1.1.6. Does document contain copyright notice?
+		Document contains the correct copyright notice.
+
+	1.2. Review team discussed the status of headers.
+	
+		1.2.1. Does the header contain the title?
+		Header contains title.
+		
+		1.2.2. Does the header contain the version number?
+		Header contains version number.
+
+		1.2.3. Does the header contain the document status?
+		Header contains the document status.
+		
+		1.2.4. Does the header display on every page?
+		Header displays on every page.
+		
+	1.3. Review team discussed the status of the footers.
+	
+		1.3.1. Does the footer contain "Aberystwyth University / Computer Science"?
+		Footer contains correct information.
+		
+		1.3.2. Does the footer contain "Page x of y"?
+		Footer contains the correct information.
+		
+		1.3.3. Does the footer appear on every page?
+		The footer does appear on every page.
+	
+	1.4. Review team discussed the sections of the document.
+	
+		1.4.1. Does the document contain a contents page, an introduction,
+		and a purpose of document?
+		The document contains all elements.
+		
+		1.4.2. Does the document contain a scope?
+		Scope requires updating.
+		ACTION: ade12, tam41
+		
+		1.4.3. Does the document contain objectives?
+		Objectives require further detail and must be re-formatted to bullet point,
+		ACTION: ade12, tam41
+		
+		1.4.4. Does the document contain a <Main Body> with appropriate sections>?
+		Review team agreed to rename "Typical User", "Use Cases" and "Error Conditions".
+		ACTION: ade12, tam41
+		
+		1.4.5. Does the document contain a change history with the date changes made and UID's.
+		Dates need amending and sections need updating with more detail.
+		ACTION: ade12, tam41.
+		
+		1.4.6. Are sections numbered correctly?
+		Sections are numbered correctly.
+		
+	1.5. Review team discussed the fonts used the labelling of diagrams.
+	Headings require updating to correct format, figure captions need adding.
+	ACTION: ade12, tam41
+	
+	1.6. Does the typical users section give good examples?
+	Section requires re-structuring to make more formal and consistent.
+	ACTION: ade12, tam41
+	
+	1.7. Review team discussed the use cases.
+	Review team agreed that improvements were needed.
+	References to functional need adding.
+	"In-depth" section needs to be re-written as "Use Case".
+	Use cases need to be linked to functional requirements.
+	ACTION: ade12, tam41
+	
+	1.8. Review team discussed the error conditions.
+	The review team agreed improvements were needed.
+	Title needs to change to "Error Conditions".
+	Update structure to reflect example UI spec.
+	ACTION: ade12, tam41
+	
+		
+2. Review team discussed status of the PowerPoint presentation.	
+The review team agreed improvements were needed.
+Unnecessary use cases need removing.
+Update final states, actions, and results.
+ACTION: fia5, jco3
+		
+3. Review team discussed how to track the changes required.
+Dustin Baker agreed to make issues for each task.
+ACTION: dub4
+
+4. Review team discussed booking a follow up meeting.
+Review team agreed to meet at the High Owen library on 23/02/23 at 10am.
+
+AOB 
+=== 
+-Contact James Owen to give update on progress.

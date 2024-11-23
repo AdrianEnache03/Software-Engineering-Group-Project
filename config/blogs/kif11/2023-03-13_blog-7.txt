@@ -1,0 +1,33 @@
+Author: KIF11
+Week: 7 (13/03/23)
+
+Assigned actions
+==============
+
+Action 1: Weekly group meeting
+
+Met in library for weekly meeting, discussed what we will be working on this week
+
+Hours: 1
+
+Action 2: Fix issues highlighted in the Test Specification feedback
+
+Fixed the majority of the issues highlighted, remaining issues are making the tests more specific/reproducible
+
+Hours: 3
+
+Action 3: Design Specification review meeting in library 20/03/23
+
+Met in library for final Design Specification review before the presentation
+
+Hours: 1
+
+Other project work
+================
+Action 1: Practice Java and JUnit in own time
+
+Out of practice with Java, spent time re-learning skills necessary to the project
+
+Hours: 3
+
+Total hours: 8

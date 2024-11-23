@@ -1,0 +1,18 @@
+Author: tam41
+Week: 11 (01/05/23)
+
+Assigned actions
+==============
+
+Action 1: 
+	Added en passant tests and test for checking if the board array updates correctly after movement.
+Hours: 5
+
+Action 2: 
+	Researched and coded some gson (writing to jsonfile) in order to help with ade12 on saving.
+Hours: 2
+
+Other project work
+================
+
+Total hours: 7

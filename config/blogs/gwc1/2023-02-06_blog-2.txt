@@ -1,0 +1,29 @@
+Author: gwc1
+Week: 2 (6/02/23)
+
+Assigned actions
+==============
+
+Action 1: Meeting in the library to discuss project.
+
+Met in the library, discussed implementation of the project. 
+Tidied up minutes and uploaded.
+
+Hours: 2
+
+Action 2: Make a list of important classes.
+
+Made a list of important classes with descriptions.
+
+Hours: 2
+
+Other project work
+================
+
+Action 1: Prepared for meeting.
+
+Wrote list of tasks to complete for next week for the meeting.
+
+Hours: 2
+
+Total hours: 6

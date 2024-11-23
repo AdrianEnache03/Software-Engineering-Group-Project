@@ -1,0 +1,16 @@
+Author: JCO3
+Week: 9 (16/04/23) 
+
+Assigned actions 
+==============
+ Worked on programming specifically en passant, check discovered check and castling 
+ Hours: 7 
+ 
+ 
+
+Other Project work
+==================
+Added to section 5 and bits of other sections of the design document
+Hours: 2
+
+Total Hours: 9

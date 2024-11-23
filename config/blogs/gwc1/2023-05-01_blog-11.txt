@@ -1,0 +1,15 @@
+Author: gwc1
+Week: 11 (01/05/23)
+
+Assigned actions
+==============
+
+1. Implemented controller class for end game screen
+2. Added more load methods
+3. Implemented detect check
+4. Fixed Bishop jumping bug
+5. Worked on Queen jumping bug
+6. Implemented check
+7. Worked on checkmate method
+	
+Total hours: 10

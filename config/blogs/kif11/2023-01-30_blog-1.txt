@@ -1,0 +1,23 @@
+Author: KIF11
+Week: 1 (30/01/23)
+
+Assigned actions
+==============
+
+Action 1: Watch the Panopto recording
+
+I watched Panopto recording: L1B: User Interface Design for the Group Project.
+
+Hours: 1
+
+Action 2: Create a summary of the implementation
+
+I wrote a summary for the implementation of this chess tutor program, including a potential project structure and what functional requirements could be challenging
+
+Hours: 2
+
+Other project work
+================
+n/a
+
+Total hours: 3

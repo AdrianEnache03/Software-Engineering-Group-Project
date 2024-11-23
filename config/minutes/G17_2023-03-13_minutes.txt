@@ -1,0 +1,86 @@
+Project: Group Project 17 
+Meeting: Weekly Project Meeting 
+Persons present: All project members except jag89, jco3
+Place and date of meeting: MP 2.04, Monday 13th March 2023 
+Circulation list: All project members, plus project manager 
+Author: George Cooper (gwc1) 
+Date of minutes: 13/03/23 
+Version: 1.1
+
+Matters arising 
+===============
+
+1. Has everyone uploaded files and blogs?
+A couple blogs needed changing.
+kif11 needs to fix typo, fia5/jco3 need to round up hours to nearest hour.
+ACTION: kif11/fia5/jco3 by 14/03/23
+kif11 needs to upload missing work.
+ACTION: kif11 by 13/03/23
+
+2. What is the status of the GitLab repository?
+Dustin Baker updated group on status of the repository.
+All in order, added new issues after review meeting.
+
+3. Did Fin Aubin and Dustin Baker go through PowerPoint changes?
+fia5/dub4 went through changes required.
+Added use cases and tasks some slides need adding and changes, comments added, need error conditions.
+
+4. UI feedback were all changes implemented?
+UI spec needs a couple small adjustment.
+
+Presentation needs a lot more work:
+	Aspect ratio needs changing.
+	group agreed to use json to save files.
+	pieces in wrong squares.
+	board needs flipping after each game.
+	castling slide needs changing.
+ACTION: ade12 change colours for piece selection on the UI spec by 20/03/23
+
+5. Group discussed design document status.
+Changes after review meeting made.
+more detail about subclasses in section 2 required.
+Significant algorithms need restructuring.
+
+6. Group discussed review meeting for design document 08/03/23
+comments added to document by dub4.
+
+7. Programming demo
+George Cooper showed off UI changes.
+Implemented main screens using java fx.
+Kieran Foy created a 2D array to hold board.
+
+New business
+============
+
+1. Review meeting for design needed?
+Group decided to meet on Wednesday 12-1 in the Hugh Owen Library to discuss.
+the status of the design document.
+ACTION: gwc1, dub4, tam41, jco3, ade12 meet 15/03/23.
+
+2. 2 or 3 people to work on design document and have a finished document ready
+to submit by next tutorial meeting.
+ACTION: tam41, jco3, ade12 by 20/03/23
+
+2. Updates to the UI/Presentation?
+ade12 agreed to complete the design document changes.
+fia5 agreed to complete presentation changes and upload new fxml files.
+ACTION: ade12, fia5 by 20/03/23
+
+3. Programming - More UI work with updated fxml, testing, 
+moving, check, checkmate
+gwc1: rotation function, load and saving with json
+kif11: movement, redo work from last week to make method more efficient.
+Show off changes at review meeting next week.
+ACTION: gwc1/kif11 by 20/03/23
+
+4. Update spreadsheet to feature tasks and blog hours.
+ACTION: gwc1 by 20/03/23
+
+5. Update repository with new issues, prepare for review meeting, create table to
+record design spec changes required.
+ACTION: dub4 by 20/03/23
+
+AOB
+===
+1. Group members decided to meet once a week at Library to discuss the project (ACTION: All)
+2. Dub4 helped fia5 with merging repository (ACTION: dub4/fia5)

@@ -1,0 +1,48 @@
+Author: gwc1
+Week: 4 (20/02/23)
+
+Assigned actions
+==============
+
+Action 2: Meeting in the library to discuss project.
+
+Met in the library, discussed design specification. 
+Tidied up minutes and uploaded.
+
+Hours: 2
+
+Action 3: Hosted review meeting 21/02/23, updated mins and assigned tasks
+
+Hours: 1
+
+Action 4: Hosted review meeting 23/02/23, updated mins and assigned tasks
+
+Hours: 1
+
+Action 4: Attended meeting 27/02/23 to look at UI, spec and make sure all files
+are uploaded to gitlab before tutorial.
+
+Hours: 1
+
+Action 5: Created draft test spec and wrote tests for FR2-FR6.
+
+Hours: 3
+
+
+Other project work
+================
+
+Action 1: Prepared for meeting.
+
+Wrote list of tasks to complete for next week for the meeting.
+
+Hours: 2
+
+Action 2:
+
+Updated a spreadsheet to record group hours spent working
+on the project
+
+Hours: 1
+
+Total hours: 11

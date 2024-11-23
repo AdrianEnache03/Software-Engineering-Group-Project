@@ -1,0 +1,75 @@
+Project: Group Project 17 
+Meeting: Weekly Project Meeting 
+Persons present: All project members except jag89
+Place and date of meeting: MP 2.04, Monday 6th March 2023 
+Circulation list: All project members, plus project manager 
+Author: George Cooper (gwc1) 
+Date of minutes: 06/03/23 
+Version: 1.1
+
+Matters arising 
+===============
+
+1. Has everyone uploaded files and blogs?
+All members have uploaded their blogs and work for this week.
+Dustin Baker uploaded required changes/identified problems for UI/PowerPoint
+
+2. What is the status of the GitLab repository?
+Dustin Baker uploaded new issues for UI feedback.
+changed reference ID's to remove version numbers.
+
+3. Have all members joined discord?
+All members have joined.
+
+4. Test spec progress report (gwc1/dub4/kif11/ade12)
+First test specification release has been uploaded.
+Improvements required after receiving feedback.
+
+5. Design spec progress report (tam41/jco3)
+More sections required filling in. 
+Add more to section 4, complete 5
+Comments added by tam41 identifying improvements required.
+
+6. UI demo (fia5)
+Fin Aubin demonstrated UI.
+Merged previous test code with UI changes.
+Start menu complete.
+Group discussed implementing an option bar vs pause menu.
+Decided on a pause menu.
+more options needed for recording game.
+Fin Aubin agreed to go through with changes needed with Dustin Baker.
+ACTION: dub4/fia5 by 13/02/23
+
+New business
+============
+
+1. UI feedback, go through feedback
+Group went through feedback on UI.
+Group discussed character limits: (ban new/line characters, min of 1, limit to 20 characters,
+1 or 2 people to work on feedback.
+ACTION: ade12 - implement changes to UI spec based on feedback by 13/02/23.
+ACTION: fia5 - presentation, make changes based on feedback add screens by 13/02/23.
+
+2. 2 or 3 people to work on design doc.
+Add more to section 4.
+Work on section 5.
+Implement changes after review meeting.
+ACTION: tam41/jco3 by 13/02/23.
+
+3. Review meeting for design spec
+12:00-13:00 in gp room 8 High Owen Library.
+ACTION: gwc1/dub4/tam41/jco3.
+
+4. 2 or 3 to work on prototype code, continue work on UI.
+Compile into one program, discuss what we want to work on.
+Present progress next week.
+ACTION: gwc1/kif11 by 13/02/23
+
+
+5. Manage new issues
+ACTION: dub4 by 9/02/23.
+
+AOB
+===
+1. fin vpn issue
+2. Group members decided to meet once a week at Library to discuss the project (ACTION: All)

@@ -1,0 +1,16 @@
+ Aythor: fia5
+ week: 9 (17/04/23)
+
+ Assigned actions
+ ================
+
+ACTION: fia5 - pawn promotion - fia5 intergrate screen
+Worked on the pawn promotion screens UI controler and attempted to impliment it however Not fully finished at this point.
+
+hours: 8
+
+ Other project work
+ =================
+ n/a
+
+ Total hours: 8

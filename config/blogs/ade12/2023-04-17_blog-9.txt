@@ -1,0 +1,19 @@
+Author: ade12
+Week: 9 (17/04/23)
+
+Assigned actions
+==============
+Action 1: Study how to use Json and the current code for replay/save/load.
+
+Hours: 4 hours
+
+Action 2: Save/ load function for replay.
+    I managed to store all the data using Json. Still working on the load function.
+	
+
+Hours: 1 hour
+
+Other project work
+================
+
+Total hours: 5 hours

@@ -1,0 +1,87 @@
+Project: Group Project 17 
+Meeting: Weekly Project Meeting 
+Persons present: All project members except jag89, tam41 (unwell)
+Place and date of meeting: MP 2.04, Monday 17th April 2023 
+Circulation list: All project members, plus project manager 
+Author: George Cooper (gwc1) 
+Date of minutes: 17/04/23 
+Version: 1.1
+
+Matters arising 
+===============
+1. Has everyone uploaded files/blogs?
+	jco3 has updated all blogs.
+	All blogs up to date.
+
+2. Status of gitlab repository?
+	All work uploaded apart from jco3/ade12 code.
+	ACTION: jco3/ade12 upload work by this evening (18/04/23)
+
+3. UI document completed ade12?
+	UI document completed.
+	dub4 looked over document.
+	No further work required.
+
+4. Test spec done
+	kif11 worked on test spec, existing tests updated but
+	more tests required.
+	dub4 agreed to look over test spec.
+	ACTION: dub4 look over test spec by next week (24/04/23)
+
+5. UI presentation done fia5?
+	fia5 completed UI presentation.
+	dub4 agreed to look over the presentation.
+	ACTION: dub4 look over UI presentation by next week (24/04/23)
+	
+6. Programming update
+	gwc1 showed off chess project.
+	showed off movement.
+	
+7. JUnit tests status
+	tam41 unwell.
+	JUnit tests status unknown.
+	
+8. Any work done over Easter?
+	All those that did work over Easter have added to their blogs.
+
+New business
+============
+
+1. 1 or 2 people to work on Junit tests
+	write more tests.
+	work on test report test table for intergration week.
+	ACTION: Kif11, Tam41 by next week (24/04/23)
+
+2. 1 person to finish test spec
+	Add new tests
+	ACTION: kif11 by next week (24/04/23)
+	
+
+2. 3 or 4 people to work on programming
+	- show moves - gwc1
+	- take piece - gwc1
+	- add comment - gwc1
+	- check/checkmate - finish over james
+	- castling/en parsant - jco3
+	- pawn promotion - fia5 intergrate screen
+	- save/load - ade12 save load
+	- replay - ade12 continue
+	
+	Show off work completed at next meeting.
+	
+	ACTION: gwc1/jco3/ade12 by next week (24/04/23)
+	
+3. Design document
+	- Complete section 5
+	
+	ACTION: kif11/jco3 by next week (24/04/23)
+	
+
+4. Work on ITW plan
+	Organise room booking on Tuesday
+	ACTION: All by 18/03/23
+
+AOB
+===
+
+1. Group members decided to meet once a week at Library to discuss the project (ACTION: All)

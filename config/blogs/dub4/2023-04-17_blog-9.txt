@@ -1,0 +1,42 @@
+Author: DUB4
+Week: 9 (17/04/23)
+
+Assigned actions
+==============
+
+Action 1: Repository + Issue Management
+	
+	- Reviewed JCO3's blog issues - Edited issue for fixed and new ammendments needed
+	- Fixed date deadlines
+
+Hours: 1
+
+Action 2: Review Test Specification Ammendments
+
+	- Approved all changes made according to Issue #33
+	- Approved all chnages made according to Issue #32
+	- Approved all changes made according to Issue #34
+	- Re-released Test Specification for final version
+
+Hours: 2
+
+Action 3: Review UI Presentation
+
+	- No ammendments made from previous version - Could not Review
+
+Hours: 0
+
+Action 4: Review Design Specification
+
+	- No ammendments made from previous version - Could not Review
+	
+Hours: 0
+
+
+Other project work
+================
+Action 1: Produced issues based on feeback from Chris Loftus relating to Design Specification
+
+Hours: 1
+
+Total hours: 4

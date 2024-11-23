@@ -1,0 +1,14 @@
+Author: tam41
+Week: 9 (17/04/23)
+
+Assigned actions
+==============
+
+Action 1: 
+	Made 3 tests, 2 in GameTest.java, 1 in SetupTest.java
+Hours: 5
+
+Other project work
+================
+
+Total hours: 5

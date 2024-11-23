@@ -1,0 +1,17 @@
+ Aythor: fia5
+ week: 7 (13/03/23)
+
+ Assigned actions
+ ================
+
+ACTION: fia5 - presentation, make changes based on feedback add screens by 13/02/23.
+
+this week we decided that in I should work on the code to move the pieces and rotate the board so that I dont have to do it Manually which was taking hours upon hours, so I started to work on that, I made it so the pressing the enter key rotates the board with a little help from george, and started to make the pieces move however for this I did a load of research into java fx, but it kept giving me null pointer exeptions on click and I dont know why, It may be an issue with the fxml, so I may need someone to help me with this :/
+
+hours: 6
+
+ Other project work
+ =================
+ n/a
+
+ Total hours: 6

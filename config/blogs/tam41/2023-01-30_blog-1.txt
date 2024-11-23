@@ -1,0 +1,23 @@
+Author: tam41
+Week: 1 (30/01/23)
+
+Assigned actions
+==============
+
+Action 1: One or two people to try starting to program the on-screen display - that is get up to speed with javafx.
+
+	-Researched JavaFX and possible libraries/tools to use.
+	-Thought of some ideas
+	-Created a basic little recap doc for JavaFX.
+	-Experimented with JavaFX	
+
+Hours: 3
+
+Action 2: Attended a meeting in the library to do work and discuss the project
+
+Hours: 2
+
+Other project work
+================
+
+Total hours: 5

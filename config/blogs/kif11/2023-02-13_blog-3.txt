@@ -1,0 +1,31 @@
+Author: KIF11
+Week: 3 (13/02/23)
+
+Assigned actions
+==============
+
+Action 1: Weekly group meeting
+
+Met in library for weekly meeting, discussed tasks for the week with group members, started writing the introduction of the design specification
+
+Hours: 1
+
+Action 2: Watch the Panopto recordings for the week
+
+Watched recorded lectures L3C and L3D
+
+Hours: 1
+
+Action 3: Write a section of the design specification to be presented in week 6
+
+I wrote the introduction section of the design specification, which included the scope and objectives of said document
+
+Hours: 2
+
+Other project work
+================
+Action 1: I spent time learning how to write JavaFX and JUnit tests so that I can be more versatile and contribute more towards the group project in terms of programming
+
+Hours: 3
+
+Total hours: 7

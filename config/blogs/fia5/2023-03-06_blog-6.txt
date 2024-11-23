@@ -1,0 +1,17 @@
+ Aythor: fia5
+ week: 6 (06/03/23)
+
+ Assigned actions
+ ================
+
+ACTION: fia5 - presentation, make changes based on feedback add screens by 13/02/23.
+
+worked on the powerpoint, however as there Were a lot of slides to do, and for every slide the board needs to rotated and the code isn't there in order to rotate it, I needed to do all the rotations by hand for every slide, which takes rather a long time per screen, so it is still not complete for every move
+
+hours: 9
+
+ Other project work
+ =================
+ n/a
+
+ Total hours: 9

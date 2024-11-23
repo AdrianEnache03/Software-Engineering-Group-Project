@@ -1,0 +1,25 @@
+Author: KIF11
+Week: 11 (02/05/23)
+
+Assigned actions
+==============
+
+Action 1: Update test cases in GameTest()
+
+Updated the movement, check and checkmate classes to be more complete
+
+Hours: 3
+
+Action 2: Contiued work on the maintenance manual, 
+
+More work on the maintenance manual, specifically in Section 2
+
+Hours: 1
+
+Action 3: Investigate test file bugs
+
+Found bug where some tests would pass when ran individually, but fail when ran together. Researched possible solutions but did not implement
+
+Hours: 1
+
+Total hours: 5

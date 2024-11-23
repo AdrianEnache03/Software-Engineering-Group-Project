@@ -1,0 +1,12 @@
+Author: ade12
+Week: 11 (05/05/23)
+
+Assigned actions
+==============
+Action 1: Javadocs and commenting the project
+Hours: 6 hour
+
+Other project work
+================
+
+Total hours: 6 hours

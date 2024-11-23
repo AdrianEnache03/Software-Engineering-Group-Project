@@ -1,0 +1,19 @@
+Author: KIF11
+Week: 11 (01/05/23)
+
+Assigned actions
+==============
+
+Write the test cases for castling, check and checkmate
+
+Wrote tests for specified cases, check and checkmate tests unfinished due to necessary features not yet being implemented
+
+Hours: 3
+
+Action 2: Start the Maintenance document
+
+Wrote the introduction for the maintenance document, looked through the design specification to see what can be translated over
+
+Hours: 1
+
+Total hours: 4

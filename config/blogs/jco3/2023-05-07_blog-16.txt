@@ -1,0 +1,15 @@
+Author: JCO3
+Week: 12 (07/05/23) 
+
+Assigned actions 
+==============
+ Worked on state and Object diagrams and fixed formatting issues in design document  
+ Hours: 6 
+ 
+ 
+
+Other Project work
+==================
+
+
+Total Hours: 6

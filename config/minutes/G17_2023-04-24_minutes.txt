@@ -1,0 +1,108 @@
+Project: Group Project 17 
+Meeting: Weekly Project Meeting 
+Persons present: All project members except jag89
+Place and date of meeting: MP 2.04, Monday 24th April 2023 
+Circulation list: All project members, plus project manager 
+Author: George Cooper (gwc1) 
+Date of minutes: 24/04/23 
+Version: 1.1
+
+Matters arising 
+===============
+
+1. Has everyone uploaded files/blogs?
+	Some blogs are missing/have wrong dates.
+	ACTION: jco3, tam41 look at blogs, update dates by this evening (24/04/23)
+	
+2. Status of gitlab repository?
+	Dub4 updated group on repository.
+	All work uploaded for this week has been uploaded.
+	Test spec issues all closed.
+
+3. Test specification status
+	Dub4 looked over test specification,
+	no further changes required.
+	
+4. JUnit tests status
+	tam41, kif11 worked on testing.
+	-implemented tests for pawn movement.
+	-still need test document.
+	-more tests required.
+
+5. UI presentation done?
+	dub4 look over UI presentation
+	- change pause screen menu
+	- make more viable scenarios
+	- respond to comments
+	ACTION: dub4, Update issues
+	
+6. Programming update
+	
+	- Group discussed using board array instead of reading json files
+	for check/checkmate.
+	- Reminder to make sure code compiles before pushing
+	- Method to create save file before reading/writing required
+	- Call pawn taking method
+	- add method to save (make into json object and put)
+
+	gwc1 showed off chess project (take and show moves)
+	
+	Group discussed what's done and what needs to be done?
+	- show moves - done
+	- take piece - need method to prevent pieces from jumping.
+	- check/checkmate - needs completing.
+	- castling/en passant - need completing.
+	- pawn promotion - controller/frontend some of the logic implemented, needs completing
+	- save/load - saving complete, loading needs completing
+	- replay - not implemented
+	
+7. Design document status
+	- Section 5 still needs completing
+	- look at issues for tasks to complete.
+
+8. Room booking
+	-Book week in advance
+	ACTION: gwc1 by Friday (28/04/23)
+	
+New business
+============
+1. Muw4 informed the group of preparations required for integration week.
+	- Group must email location/time of meeting during integration to project manager.
+	- Must write a blog of all work completed that day.
+	- Group must use gitlab issues.
+
+2. 1 or 2 people to work on Junit tests
+	- Write more tests.
+	- Work on test report test table for integration week. (see SE-10)
+	ACTION: Kif11, Tam41 by next week (1/05/23)
+
+3. 1 or 2 people to work on documentation 
+	Design spec - finish section 5 
+	ACTION: Tam41 by next week (1/05/23)
+	
+	UI presentation - look at comments and update.
+	ACTION: Gwc1
+
+4. 3 or 4 people to work on programming
+	- movement piece - fix jumping over piece bug gwc1
+	- check/checkmate - jco3
+	- castling - jco3
+	- en passant - gwc1
+	- pawn promotion - fia5
+	- save/load - ade12
+	- replay - ade12 
+	
+	- add comments - all
+	- add version - all
+	
+	Show off work completed at next meeting.
+	
+	ACTION: gwc1, ade12, jco3
+	
+5. More sessions to work together?
+	Meet Tuesday
+	Agree if we need more on Tuesday.
+
+AOB
+===
+1. Group members decided to meet once a week at Library to discuss the project (ACTION: All)

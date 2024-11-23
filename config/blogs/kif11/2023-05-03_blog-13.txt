@@ -1,0 +1,19 @@
+Author: KIF11
+Week: 11 (03/05/23)
+
+Assigned actions
+==============
+
+Action 1: Limit usernames according to Test Specification
+
+Gave usernames a character limit of 20, made sure they weren't empty and didn't contain any special characters or new line characters. Achieved without recursion through creating a new class called checkNames() in NewGameScreenController
+
+Hours: 2
+
+Action 2: Create save file with wrong file format for testsing
+
+Created test.txt in the Saved Games folder for SE-F-86
+
+Hours: 1
+
+Total hours: 3

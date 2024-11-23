@@ -1,0 +1,20 @@
+Author: fia5
+Week: 10 (24/04/23)
+
+Assigned actions
+==============
+
+ACTION: fia5 - pawn promotion - fia5 intergrate screen and back end
+finaly managed to get the pawn promotion to fully work, however still buggy if you try to do it
+for a second time.
+
+hours: 6
+	
+
+Other project work
+================
+
+n/a
+
+Total hours: 6
+	

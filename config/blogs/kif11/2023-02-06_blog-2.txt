@@ -1,0 +1,27 @@
+Author: KIF11
+Week: 2 (06/02/23)
+
+Assigned actions
+==============
+
+Action 1: Produce Pseudocode for the Chess Tutor Program
+
+I wrote pseudocode of varying detail for each of the classes and methods included in the plan I outlined in the previous meeting
+
+Hours: 3
+
+Other project work
+================
+I wrote some of the more basic code including the class attributes and inheritance for each of the piece types, and asking the players their name and which color they wish to play (can be edited/deleted by other group members if necessary)
+
+Hours: 2
+
+I wrote the headers for each of the classes, containing the filename, copywrite message, version and date of creation (needs expansion)
+
+Hours: 1
+
+I wrote the standard javadoc class and method headers (needs expansion)
+
+Hours: 1
+
+Total hours: 7
