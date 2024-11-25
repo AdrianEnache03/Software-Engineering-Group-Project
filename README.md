@@ -15,3 +15,4 @@ CS22120 - Group 17 Project
 - [tam41] Tate Moore
 
 The log entries for the work I completed each week for this project are saved in: Config -> Blog -> ade12
+The code can be found in the src file and in dev -> project code
